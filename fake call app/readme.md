@@ -44,9 +44,3 @@
 - **Android Call UI** - For a realistic experience  
 
 ---
-
-## 📲 Installation Guide
-
-1️⃣ Clone this repository:
-```bash
-git clone https://github.com/your-username/fake-call-app.git
