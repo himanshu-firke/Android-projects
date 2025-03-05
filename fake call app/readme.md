@@ -19,8 +19,8 @@
 
 ## 📷 Screenshots
 
-| Fake Contacts List | Fake Incoming Call | Fake Call Answered |
-|-------------------|-------------------|--------------------|
+| Fake Contacts List | Fake Incoming Call | 
+|-------------------|-------------------|
 | ![Fake Contacts](assets/fake_contacts.jpg) | ![Fake Incoming Call](assets/fake_call.jpg) | 
 
 ---
