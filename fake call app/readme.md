@@ -21,7 +21,7 @@
 
 | Fake Contacts List | Fake Incoming Call | Fake Call Answered |
 |-------------------|-------------------|--------------------|
-| ![Fake Contacts](assets/fake_contacts.png) | ![Fake Incoming Call](assets/fake_call.png) | ![Fake Call Answered](assets/fake_call_answer.png) |
+| ![Fake Contacts](assets/fake_contacts.png) | ![Fake Incoming Call](assets/fake_call.png) | 
 
 ---
 
